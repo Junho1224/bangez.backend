@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/service/chat-service" />
             <option value="$PROJECT_DIR$/service/land-service" />
             <option value="$PROJECT_DIR$/service/tx-service" />
+            <option value="$PROJECT_DIR$/service/user-service" />
           </set>
         </option>
       </GradleProjectSettings>
